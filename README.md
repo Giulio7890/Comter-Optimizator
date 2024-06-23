@@ -39,6 +39,11 @@ Comter Optimizator is a pc optimizator for gaming and more
     [ 27 ] Optimize Disk Settings
     [ 28 ] Monitor Performance
 
+# Bugs
+
+if there are bugs, try starting the programam as administrator. if the error persists dm me on discord    user: giulio789
+
+
 
 # Premium comter
 
